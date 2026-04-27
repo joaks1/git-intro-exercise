@@ -1,0 +1,1 @@
+guys just open the tests folder and open the corresponding sh for the "test passed" message and reverse engineer the script 
